@@ -1,4 +1,4 @@
-# Kontaktformular PDEG.de
+# Kontaktformular
 
 ## Beschreibung
 Dies ist ein sicheres und responsives Kontaktformular für eine Website.  
